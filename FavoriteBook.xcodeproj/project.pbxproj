@@ -11,6 +11,7 @@
 		4D7203DD2C57881700E72DB0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7203DC2C57881700E72DB0 /* ContentView.swift */; };
 		4D7203DF2C57881700E72DB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D7203DE2C57881700E72DB0 /* Assets.xcassets */; };
 		4D7203E22C57881700E72DB0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D7203E12C57881700E72DB0 /* Preview Assets.xcassets */; };
+		4D7203E92C57897800E72DB0 /* FavoriteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7203E82C57897800E72DB0 /* FavoriteModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4D7203DC2C57881700E72DB0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4D7203DE2C57881700E72DB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D7203E12C57881700E72DB0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4D7203E82C57897800E72DB0 /* FavoriteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4D7203DA2C57881700E72DB0 /* FavoriteBookApp.swift */,
 				4D7203DC2C57881700E72DB0 /* ContentView.swift */,
+				4D7203E82C57897800E72DB0 /* FavoriteModel.swift */,
 				4D7203DE2C57881700E72DB0 /* Assets.xcassets */,
 				4D7203E02C57881700E72DB0 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D7203E92C57897800E72DB0 /* FavoriteModel.swift in Sources */,
 				4D7203DD2C57881700E72DB0 /* ContentView.swift in Sources */,
 				4D7203DB2C57881700E72DB0 /* FavoriteBookApp.swift in Sources */,
 			);
